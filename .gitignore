@@ -1,0 +1,34 @@
+# Build Artifacts
+/target/
+/Cargo.lock
+
+# Backup Files
+**/*.bak.rs
+**/*.rs.bak
+
+# IDE Directories
+.idea
+.vscode
+
+# OS specific files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Temporary files
+*.tmp
+*.temp
